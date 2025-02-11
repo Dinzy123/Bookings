@@ -89,7 +89,7 @@ export const houses = [
         about: 'A stylish and modern apartment located in the heart of Durban. Rent includes electricity, water, and WiFi.',
         address: {
             line1: '123 Florida Road',
-            line2: 'Durban, South Africa'
+            line2: 'Durban , South Africa'
         }
     },
     {
